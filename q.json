@@ -1,0 +1,19 @@
+{
+    "BACKGROUND_COLOR": [
+        239,
+        252,
+        242
+    ],
+    "TEXT_COLOR": [
+        27,
+        21,
+        79
+    ],
+    "IMAGE_WIDTH": 1200,
+    "IMAGE_HEIGHT": 800,
+    "PADDING": 50,
+    "BASE_FONT_SIZE": 40,
+    "MIN_FONT_SIZE": 32,
+    "MAX_FONT_SIZE": 100,
+    "FONT_PATH": null
+}
